@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/open-github/test/compare/v1.0.0...v1.1.0) (2023-07-25)
+
+
+### Features
+
+* Update k8s version ([#16](https://github.com/open-github/test/issues/16)) ([c7cb4c9](https://github.com/open-github/test/commit/c7cb4c9f896866e9f582c75a866b3fa87cd3ebe4))
+
+
+### Bug Fixes
+
+* k8s version ([#13](https://github.com/open-github/test/issues/13)) ([654aec7](https://github.com/open-github/test/commit/654aec76babd882c5d08677305a6d3197e12214d))
+* k9s version ([654aec7](https://github.com/open-github/test/commit/654aec76babd882c5d08677305a6d3197e12214d))
+
 ## [1.0.0](https://github.com/open-github/test/compare/v0.2.0...v1.0.0) (2023-07-25)
 
 
