@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/open-github/test/compare/v0.2.0...v1.0.0) (2023-07-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* add kubernetes ([#10](https://github.com/open-github/test/issues/10))
+
+### Features
+
+* add kubernetes ([#10](https://github.com/open-github/test/issues/10)) ([57a11a6](https://github.com/open-github/test/commit/57a11a65ba59078cba1f030fa563ffe6ba524700))
+
 ## [0.2.0](https://github.com/open-github/test/compare/v0.1.0...v0.2.0) (2023-07-25)
 
 
