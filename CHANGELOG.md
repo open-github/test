@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/open-github/test/compare/v0.1.0...v0.2.0) (2023-07-25)
+
+
+### Features
+
+* add pr.yaml ([#7](https://github.com/open-github/test/issues/7)) ([02ddbf5](https://github.com/open-github/test/commit/02ddbf5cec4cb872f3ee1a5ff8c1974f061c6fd2))
+
+
+### Bug Fixes
+
+* helm version ([#9](https://github.com/open-github/test/issues/9)) ([84ca97b](https://github.com/open-github/test/commit/84ca97b823460d5b624ff7bc8cd48bf5bad7cf24))
+
 ## 0.1.0 (2023-07-25)
 
 
